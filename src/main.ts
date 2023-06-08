@@ -6,8 +6,8 @@ import Preloader from './Preloader'
 const config: Phaser.Types.Core.GameConfig = {
 	type: Phaser.AUTO,
 	parent: 'app',
-	width: 800,
-	height: 600,
+	width: 1255,
+	height: 866,
 	physics: {
 		default: 'arcade',
 		arcade: {
